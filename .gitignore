@@ -1,3 +1,7 @@
+Project03-Data-warehouse/dwh.cfg
+Project04-Data-lake/dl.cfg
+Project04-Data-lake/data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
